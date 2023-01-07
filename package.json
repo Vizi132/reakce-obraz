@@ -1,0 +1,19 @@
+{
+  "name": "reaction-time-test-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "csv-parse": "^5.3.3",
+    "express": "^4.18.2",
+    "fs": "0.0.1-security",
+    "json2csv": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
